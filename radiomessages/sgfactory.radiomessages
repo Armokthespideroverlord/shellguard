@@ -167,7 +167,7 @@
     "type" : "mission",
     "senderName" : "!@#!$!#%",
     "portraitImage" : "/interface/chatbubbles/survivor.png",
-    "text" : "Shellguard don't care about the Ruin. They don't care about the Earth. If it spreads, it's oblivion for us all."
+    "text" : "Shellguard don't care about the Ruin. They don't care about the Earth. It'll only attack again, and again. No one is prepared."
   },
  
    "sgspiderelevator2a" : {
@@ -181,14 +181,14 @@
     "type" : "mission",
     "senderName" : "!@#!$!#%",
     "portraitImage" : "/interface/chatbubbles/survivor.png",
-    "text" : "I'm going to make things right. For the good of the universe."
+    "text" : "I'm going to make things right. For the good of the galaxy."
   },
 
   "sgspiderelevator3a" : {
     "type" : "mission",
     "senderName" : "Commander Andros Galvanek",
     "portraitImage" : "/interface/chatbubbles/Andros.png",
-    "text" : "Killing innocent people isn't for the good of the universe! Think about how many people have you killed to get here!"
+    "text" : "Killing innocent people isn't for the good of the galaxy! Think about how many people have you killed to get here!"
   },
   
    "sgspiderelevator3b" : {
@@ -216,7 +216,7 @@
     "type" : "mission",
     "senderName" : "Commander Andros Galvanek",
     "portraitImage" : "/interface/chatbubbles/Andros.png",
-    "text" : "Something HUGE just broke off from the planet's surface... By the Cultivator, it's the biggest ship I've ever seen."
+    "text" : "Something HUGE just broke off from the planet's surface... By God, it's the biggest ship I've ever seen."
   },  
 
   "sgspiderfactory15b" : {
