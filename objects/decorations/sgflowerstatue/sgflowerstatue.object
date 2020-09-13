@@ -6,12 +6,12 @@
   "price" : 1000,
 
   "apexDescription" : "A beautiful statue of someone from Shellguard.",
-  "avianDescription" : "A beautiful statue of someone from Shellguard.",
-  "floranDescription" : "A beautiful sssstatue of ssssomeone from Sssshellguard.",
+  "avianDescription" : "The overgrowth only adds to this wonderful statue.",
+  "floranDescription" : "A sssstatue of ssssomeone from Sssshellguard.",
   "glitchDescription" : "Impressed. A statue of someone from Shellguard.",
-  "humanDescription" : "A beautiful statue of someone from Shellguard.",
-  "hylotlDescription" : "A beautiful statue of someone from Shellguard.",
-  "novakidDescription" : "A beautiful statue of someone from Shellguard.",
+  "humanDescription" : "I wonder who this is supposed to be.",
+  "hylotlDescription" : "This statue is of impressive craftmanship.",
+  "novakidDescription" : "I'll be darned, this is a mighty pretty statue.",
 
   "description" : "A Shellguard statue covered in flowers.",
   "shortdescription" : "Flower Statue",
