@@ -10,6 +10,14 @@
   "price" : 75000,
   "health" : 1.5,
 
+"apexDescription" : "I can create gun parts here.",
+  "avianDescription" : "I can create gun parts here.",
+  "floranDescription" : "Floran create gun partsss here.",
+  "glitchDescription" : "Observant. I can create gun parts here.",
+  "humanDescription" : "I can create gun parts here.",
+  "hylotlDescription" : "I can create gun parts here.",
+  "novakidDescription" : "This here machine lets me create gun parts!",
+
   "iAction" : "OpenMerchantInterface",
   "iData" : {
     "config" : "/interface/windowconfig/vendingmachine.config",
