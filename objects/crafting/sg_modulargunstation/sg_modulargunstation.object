@@ -10,6 +10,14 @@
   "price" : 10000,
   "health" : 1.5,
 
+"apexDescription" : "Some weapon modification station. I bet both the rebels and Miniknog would want something like this.",
+  "avianDescription" : "A weapons modification station.",
+  "floranDescription" : "Floran can modify gunsss here.",
+  "glitchDescription" : "Informative. This station can be used to modify modular Shellguard weapons.",
+  "humanDescription" : "I can use this station to modify custom Shellguard guns. Sweet!",
+  "hylotlDescription" : "Some kind of device for modifying weapons of war.",
+  "novakidDescription" : "With this here machine, I can modify some guns. Pretty nifty ain't it?",
+
   "objectType" : "container",
   "slotCount" : 7,
   "uiConfig" : "/interface/objectcrafting/sg_modulargunstation.config",
