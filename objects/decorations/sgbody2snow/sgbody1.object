@@ -4,13 +4,12 @@
   "rarity" : "Common",
   "category" : "decorative",
   "price" : 100,
-
-  "apexDescription" : "A dead Shellguard Soldier!",
-  "avianDescription" : "A dead Shellguard Soldier!",
+  "apexDescription" : "A fallen comrade.",
+  "avianDescription" : "Red, red like blood...",
   "floranDescription" : "A dead Ssssshellguard Ssssoldier! Shame that meats going to wassste.",
-  "glitchDescription" : "Shocked. A dead Shellguard Soldier.",
-  "humanDescription" : "A dead Shellguard Soldier!",
-  "hylotlDescription" : "A dead Shellguard Soldier!",
+  "glitchDescription" : "Shocked. A fallen Shellguard Soldier.",
+  "humanDescription" : "Oh no...",
+  "hylotlDescription" : "They died with honor.",
   "novakidDescription" : "That there is a Shellguard Soldier who met their match.",
 
   "description" : "A dead member of Shellguard",
