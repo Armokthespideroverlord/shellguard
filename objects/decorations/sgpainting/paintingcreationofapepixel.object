@@ -10,11 +10,11 @@
   "printable" : false,
 
   "apexDescription" : "A rather stupid painting.",
-  "avianDescription" : "A rather stupid painting.",
-  "floranDescription" : "A ssssstupid painting.",
-  "glitchDescription" : "Confused. A rather stupid painting.",
+  "avianDescription" : "A rather stupid painting. The colors are nice at least.",
+  "floranDescription" : "Sssilly painting.",
+  "glitchDescription" : "Confused. Who would create something this stupid?",
   "humanDescription" : "A kinda stupid painting.",
-  "hylotlDescription" : "A rather stupid painting.",
+  "hylotlDescription" : "Despite how well painted it is, one cannot deny how silly this is.",
   "novakidDescription" : "One stupid painting.",
 
   "inventoryIcon" : "paintingcreationofapepixelicon.png",
