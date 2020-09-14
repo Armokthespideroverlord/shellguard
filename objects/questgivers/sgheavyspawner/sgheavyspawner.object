@@ -9,11 +9,11 @@
 
   "apexDescription" : "This machine sells dubloons.",
   "avianDescription" : "This machine sells dubloons.",
-  "floranDescription" : "This machine sells dubloons.",
+  "floranDescription" : "Machine sssells dubloonss.",
   "glitchDescription" : "Bored. This machine sells dubloons.",
   "humanDescription" : "This machine sells dubloons.",
   "hylotlDescription" : "This machine sells dubloons.",
-  "novakidDescription" : "This machine sells dubloons.",
+  "novakidDescription" : "This here machine sells dubloons.",
 
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
