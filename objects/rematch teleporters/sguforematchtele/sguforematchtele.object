@@ -9,14 +9,13 @@
   "shortdescription" : "Shellguard Rematch Teleporter",
   "race" : "ancient",
 
-  "apexDescription" : "This will take me to a digital fight zone.",
+    "apexDescription" : "This will take me to a digital fight zone.",
   "avianDescription" : "This will take me to a digital fight zone.",
-  "floranDescription" : "Thisssss will take me to a digital fight zone.",
+  "floranDescription" : "Thisssss will take floran to digital fight zone.",
   "glitchDescription" : "Aware. This will take me to a digital fight zone.",
   "humanDescription" : "This will take me to a digital fight zone.",
   "hylotlDescription" : "This will take me to a digital fight zone.",
-  "novakidDescription" : "This will take me to a digital fight zone.",
-
+  "novakidDescription" : "This will take me to some ol' digital fight zone.",
   "category" : "teleporter",
   "lightColor" : [56, 102, 124],
 
