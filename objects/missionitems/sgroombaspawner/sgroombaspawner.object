@@ -10,6 +10,14 @@
   "printable" : false,
   "scannable" : false,
 
+"apexDescription": "A device for recharging SHELL-Bs.",
+	"avianDescription": "A recharging station for robot cleaners.",
+	"floranDescription": "Noissy metal nessst.",
+	"glitchDescription": "Amused. A quaint little charging station for SHELL-Bs.",
+	"humanDescription": "There's something frankly adorable about seeing those little SHELL-Bs pop out.",
+	"hylotlDescription": "It's almost like a home for SHELL-Bs.",
+	"novakidDescription": "This 'ere device is like a bed n' breakfast for them little SHELL-Bs",
+
   "inventoryIcon" : "sgroombaspawner.png",
   "orientations" : [
     {
