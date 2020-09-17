@@ -18,13 +18,13 @@
     "items" : []
   },
 
-  "apexDescription" : "This is Atmos. I can buy Lockjaws from it.",
-  "avianDescription" : "This is Atmos. I can buy Lockjaws from it.",
-  "floranDescription" : "Thissss is Atmos. Floran can buy Lockjawsss from it.",
-  "glitchDescription" : "Pleased. This is Atmos. I can buy Lockjaws from it.",
-  "humanDescription" : "This is Atmos. I can buy Lockjaws from it.",
-  "hylotlDescription" : "This is Atmos. I can buy Lockjaws from it.",
-  "novakidDescription" : "This is Atmos. I can buy Lockjaws from it.",
+  "apexDescription" : "This is Atmos. I can buy Lockjaws from him.",
+  "avianDescription" : "This is Atmos. I can buy Lockjaws from him.",
+  "floranDescription" : "Thissss is Atmos. Floran can buy Lockjawsss from him.",
+  "glitchDescription" : "Pleased. This is Atmos. I can buy Lockjaws from him.",
+  "humanDescription" : "This is Atmos. I can buy Lockjaws from him.",
+  "hylotlDescription" : "This is Atmos. I can buy Lockjaws from him.",
+  "novakidDescription" : "This here feller is Atmos. I can buy Lockjaws from him.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [
