@@ -16,13 +16,13 @@
   "flickerPeriodVariance" : 0.0,
   "flickerIntensityVariance" : 0.0,
 
-  "apexDescription" : "The anvil works, I wonder what beings made this.",
-  "avianDescription" : "This anvil is of ancient origin",
+  "apexDescription" : "This anvil can be used to update most Shellguard weaponry.",
+  "avianDescription" : "This anvil can be used to update most Shellguard weaponry",
   "floranDescription" : "Floran push buttons. Make thingsss happen!",
-  "glitchDescription" : "Impressed. The technical applications of this anvil are as advanced as they are ancient.",
-  "humanDescription" : "A anvil made to stand the test of time",
-  "hylotlDescription" : "This anvil looks extremely old, but still functional.",
-  "novakidDescription" : "This anvil looks ancient...",
+  "glitchDescription" : "Informative. This anvil can be used to update most Shellguard weaponry",
+  "humanDescription" : "This anvil can be used to update most Shellguard weaponry",
+  "hylotlDescription" : "This anvil can be used to update most Shellguard weaponry",
+  "novakidDescription" : "This anvil can be used to update most Shellguard weaponry",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [
