@@ -10,7 +10,7 @@
 
   "apexDescription" : "A helpful info booth. The worker seems bored.",
   "avianDescription" : "A helpful info booth. The worker seems bored.",
-  "floranDescription" : "A helpful info booth. The worker ssssseems bored.",
+  "floranDescription" : "Helpful info booth. Worker ssssseems bored.",
   "glitchDescription" : "Appreciative. A helpful info booth. The worker seems bored.",
   "humanDescription" : "A helpful info booth. The worker seems bored.",
   "hylotlDescription" : "A helpful info booth. The worker seems bored.",
@@ -68,7 +68,7 @@
 
   "mouthPosition" : [-1.25, -3],
   "chatOptions" : [
-    "Welcome to one of our own little outpost!",
+    "Welcome to one of our own little outposts!",
     "Up ahead, you can find our public shops, where you can buy some great gear!",
     "A little past that, you can find our weapons testing zones!",
     "If you're the productive type, I'm sure some people around here may have jobs for you.",
