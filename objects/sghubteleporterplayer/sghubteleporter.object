@@ -11,11 +11,11 @@
 
   "apexDescription" : "I can use this to visit past missions.",
   "avianDescription" : "I can use this to visit past missions.",
-  "floranDescription" : "Floran can use thissss to visssit passssst missionssss.",
+  "floranDescription" : "Floran can use thissss to visssit passssst missionssss!",
   "glitchDescription" : "Eager. I can use this to visit past missions.",
-  "humanDescription" : "I can use this to visit past missions",
+  "humanDescription" : "I can use this to visit past missions!",
   "hylotlDescription" : "I can use this to visit past missions.",
-  "novakidDescription" : "I can use this to visit past missions.",
+  "novakidDescription" : "I can use this here teleporter to visit past missions!",
 
   "category" : "teleporter",
   "lightColor" : [99, 132, 153],
