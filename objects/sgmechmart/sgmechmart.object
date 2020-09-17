@@ -35,13 +35,13 @@
     ]
   },
 
-  "apexDescription" : "Wow, those are some huge guns.",
-  "avianDescription" : "Wow, those are some huge guns.",
-  "floranDescription" : "Wow, thosssse are ssssome huge guns.",
-  "glitchDescription" : "Humbled. Those are some huge guns.",
-  "humanDescription" : "Wow, those are some huge guns.",
-  "hylotlDescription" : "Wow, those are some huge guns.",
-  "novakidDescription" : "Wow, those are some huge guns.",
+  "apexDescription" : "This shop packs some serious firepower.",
+  "avianDescription" : "Any Avian warrior would be hard pressed to not be impressed here.",
+  "floranDescription" : "Floran like big gunsss, but where big ssstaby?",
+  "glitchDescription" : "Impressed. These could tear down castle walls.",
+  "humanDescription" : "Wow, those are some huge guns!",
+  "hylotlDescription" : "Powerful weaponry, perhaps too powerful.",
+  "novakidDescription" : "Well I'll be... Those are some mighty big guns.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [
