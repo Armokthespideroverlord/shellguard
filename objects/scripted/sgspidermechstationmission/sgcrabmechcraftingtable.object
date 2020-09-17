@@ -12,6 +12,14 @@
 	"shortdescription" : "Mod Slag Furnace",
 	"race" : "generic",
 
+"apexDescription" : "With this station I can assemble components into a working CRAB.",
+  "avianDescription" : "This station is made for piecing together large CRAB vehicles.",
+  "floranDescription" : "Floran could make big CRAB with thisss station.",
+  "glitchDescription" : "Astonished. This advanced assembly station is designed to make CRABs.",
+  "humanDescription" : "This station is for building and outfitting  CRABs.",
+  "hylotlDescription" : "This terminal is for customizing and outfitting CRAB mech vehicles.",
+  "novakidDescription" : "This station'll let me put together a CRAB mech any way I like.",
+
 	"health" : 5,
 
 	"inventoryIcon" : "sgcrabmechcraftingtableicon.png",
