@@ -15,7 +15,7 @@
   "glitchDescription" : "Hopeful. This will take me to another location.",
   "humanDescription" : "This will take me to another location.",
   "hylotlDescription" : "This will take me to another location.",
-  "novakidDescription" : "This will take me to another location.",
+  "novakidDescription" : "This here teleporter will take me to another location.",
 
   "category" : "teleporter",
   "lightColor" : [56, 102, 124],
